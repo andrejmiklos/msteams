@@ -1,3 +1,6 @@
-# Andrej Mikloš
-Collaborating with Microsoft Teams <br>
-https://docs.microsoft.com/sk-sk/users/mikloandrej-4082/achievements
+# NodeJS ŠTC Project
+
+Commands in order:
+- npm install #Install project
+- tsc #Compile to JavaScript
+- npm run start #Start the project
